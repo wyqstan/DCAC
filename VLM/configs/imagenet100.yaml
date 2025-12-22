@@ -1,0 +1,5 @@
+enabled: True
+shot_capacity: 20
+alpha: 0.25
+lower: 95
+topk: 5

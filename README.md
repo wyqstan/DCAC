@@ -1,6 +1,6 @@
 # DCAC: Dynamic Class-Aware Cache Creates Stronger Out-of-Distribution Detectors
 
-![framework](picture\framework.PNG)
+![framework](picture/framework.PNG)
 
 The paper has been accepted by AAAI2026.
 
@@ -51,4 +51,5 @@ If you find our work interesting or use our code/models, please consider citing:
       url={https://arxiv.org/abs/2601.12468}, 
 }
 ```
+
 
